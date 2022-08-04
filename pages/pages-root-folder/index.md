@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_banner.jpg
+  image_fullwidth: "header_banner_970.jpg"
 widget1:
   title: "Featured Stories"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
