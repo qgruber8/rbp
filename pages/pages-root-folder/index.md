@@ -6,11 +6,11 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: Banner.png
+  image_fullwidth: header_banner.jpg
 widget1:
   title: "Featured Stories"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
-  image: family-archive-photo.png
+  image: "family-archive-photo.png"
   text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
 widget2:
   title: "Why use this theme?"
