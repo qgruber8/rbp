@@ -1,34 +1,34 @@
 - title: ABOUT
-  url: "/info/"
+  url: "/about/"
   side: left
   dropdown:
   - title: "OUR GOALS"
-    url: "/info/"
+    url: "/about/our_goals/"
   - title: "TEAM"
-    url: "/design/typography/typography/"
+    url: "/about/our_team/"
 
 - title: "OUR WORK"
-  url: "/design/"
+  url: "/our_work/"
   side: left
   dropdown:
   - title: "PROJECTS"
-    url: "/design/grid/"
+    url: "/our_work/projects/"
   - title: "MAP"
-    url: "/design/typography/map/"
+    url: "/our_work/map/"
   - title: "THEMES"
-    url: "/design/page/"
+    url: "/our_work/themes"
   - title: "EVENTS"
-    url: "/design/post-left-sidebar/"
+    url: "/our_work/events/"
 
 - title: PARTNERS
-  url: "/getting-started/"
+  url: "/partners/"
   side: left
 
 - title: "GET INVOLVED"
-  url: "/headers/"
+  url: "/get_involved/"
   side: left
   dropdown:
   - title: "CONTRIBUTE"
-    url: "/design/header-full-width-image/"
+    url: "/get_involved/contribute/"
   - title: "CONTACT"
-    url: "/design/header-image-pattern/"
+    url: "/get_involved/contact/"

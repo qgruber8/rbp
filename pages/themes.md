@@ -1,11 +1,11 @@
 ---
-layout: page
-title: "About"
-subheadline: "Why another Jekyll Theme?"
+layout: page-fullwidth
+title: "Themes"
+subheadline: ""
 teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
-permalink: "/info/"
+permalink: "/our_work/themes"
 header:
-    image_fullwidth: "header_drop.jpg"
+    image_fullwidth: "header_banner.jpg"
 ---
 ...and learn at the same time.
 
