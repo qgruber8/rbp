@@ -11,7 +11,7 @@
 title: 'Remember Black Philly'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'Remember Black Philly'
+slogan: 'A digital storytelling and community archiving project.'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: 'A digital storytelling and archiving project that documents the rich experiences, institutions, and cultures of Black people in Philadelphia.'
@@ -26,7 +26,7 @@ author: RBP
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 url: 'https://qgruber8.github.io'
-baseurl: ''
+baseurl: '/RBP'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages

@@ -36,13 +36,13 @@ callforaction:
   url: https://tinyletter.com/feeling-responsive
   text: CONTRIBUTE
   style: alert
-permalink: /get_involved/contribute
+permalink: /index.html
 
 callforaction:
   url: https://tinyletter.com/feeling-responsive
   text: CONTACT US
   style: alert
-permalink: /get_involved/contact
+permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
