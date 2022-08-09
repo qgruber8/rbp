@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title: "About"
-subheadline: "The Re/Member Black Philly Project"
+subheadline: ""
 teaser: "Re/Member Black Philadelphia is a digital storytelling and community archiving project."
 permalink: "/about/"
 header:

@@ -1,4 +1,4 @@
-- menu_name: "Dankeschön"
+- menu_name: "Thank You"
 
 - name: "Icons by Daniel Bruce"
   url: "http://entypo.com/"
@@ -10,12 +10,12 @@
   class: "services-newsletter"
   title: "Built on Foundation"
 
-- name: "Images by Unsplash"
-  url: "http://unsplash.com/"
+- name: "Price Lab for Digital Humanities"
+  url: "https://pricelab.sas.upenn.edu/"
   class: "rss-link"
-  title: "Images by Unsplash"
+  title: "Price Lab for Digital Humanities"
 
-- name: "Using Backstretch by Scott Robbin"
-  url: "http://srobbin.com/jquery-plugins/backstretch/"
+- name: "Penn Libraries Digital Scholarship Team"
+  url: "https://www.library.upenn.edu/help-with/research-data-digital-scholarship"
   class: "sitemap-link"
-  title: "Using Backstretch by Scott Robbin"
+  title: "Penn Libraries Digital Scholarship Team"

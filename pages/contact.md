@@ -3,7 +3,7 @@ layout              : page
 title               : "Contact Us"
 meta_title          : "Contact Us"
 subheadline         : ""
-teaser              : "Get in touch with the Re/Member Black Philly Team."
+teaser              : ""
 permalink           : "/get_involved/contact/"
 header:
     image_fullwidth: "header_banner.jpg"
