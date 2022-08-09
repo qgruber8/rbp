@@ -1,61 +1,14 @@
 ---
 layout: page-fullwidth
 title: "About"
-subheadline: "Why another Jekyll Theme?"
-teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
+subheadline: "The Re/Member Black Philly Project"
+teaser: "Re/Member Black Philadelphia is a digital storytelling and community archiving project."
 permalink: "/about/"
 header:
     image_fullwidth: "header_banner.jpg"
 ---
-...and learn at the same time.
+Re/Member Black Philadelphia is a multimodal digital scholarship and community archiving project that investigates the increasingly endangered contexts of Black social and cultural life against the backdrop of this systematic displacement. First and foremost, this project is an act of love for Black Philadelphia and of resistance to the erasure of Black communities in Philadelphia, as in many parts of the world. First conceptualized in 2014, Re/Member Black Philadelphia utilizes digital media and technology to document and celebrate the rich experiences, institutions, spaces, and cultures of Black people in the city.
 
-*Feeling Responsive* is my first theme which I let into the world. It's built on work and knowledge of others. While I am still designing it, you read about whats behind this theme in the – *hopefully* – near future.
+“Black Philadelphia,” as conceived in this work, represents a racial-spatial-imaginative construct that indexes the memories, diverse histories, and lived experiences of the communities that comprise the city’s Black, or African diasporic population. In the spirit of W.E.B. Du Bois’ <em>The Philadelphia Negro</em>, which sought to document the “real condition” of the city’s Black population at the turn of the twentieth century, Re/Member Black Philadelphia investigates the precarious contemporary conditions of Black Philly amid changing socioeconomic demographics and the systemic displacement of longtime Black residents.
 
-
-## Features
-
-* [Responsive Gallery][8], [Videos][9], [Grid][10], [Typography][11],...
-* 100% GitHub Pages friendly
-* Easy editable navigation, footer and social media links
-* Language Ready – just translate one file.
-* Lots of possibilities to customize it to your needs
-* Lots of different headers
-* Various post formats to let your content shine
-* Uses Jekyll 3.0
-* Multiple possibilities to use images in different ways
-* Fine typography
-* Play Video and Audio with [Mediaelement.js][12]
-
-
-
-## I got inspired by...
-
-[Michael Rose][1] and his fabulous [themes for jekyll][2]. Authors of [A List Apart][4] and [Smashing Magazine][5] since 2002. [GitHub][6] and how they built such a habitat for cooperation worldwide. [Automattic][3] and how they built a fantastic community around WordPress. And many, many more...
-
-Please make *Feeling Responsive* yours and if you like it, please link back to my homebase <a href="http://phlow.de/">Phlow</a>. That would be awesome.
-
-#### Since then, fork it!
-
-Yours sincerelly, [Moritz »mo.« Sauer][7]
-
-
- [1]: http://mademistakes.com/about/
- [2]: http://mademistakes.com/work/jekyll-themes/
- [3]: http://automattic.com/
- [4]: http://alistapart.com/
- [5]: http://www.smashingmagazine.com/
- [6]: https://github.com/
- [7]: http://sauer.io
- [8]: {{ site.url }}/design/gallery/
- [9]: {{ site.url }}/design/video/
- [10]: {{ site.url }}/design/grid/
- [11]: {{ site.url }}/design/typography/
- [12]: {{ site.url }}/design/mediaelement_js/
- [13]: #
- [14]: #
- [15]: #
- [16]: #
- [17]: #
- [18]: #
- [19]: #
- [20]: #
+Re/Member Black Philadelphia demonstrates how the tools of the digital and spatial humanities, qualitative research, and media studies can help us more fully understand and teach the lived realities of marginalized populations and spaces. Utilizing interdisciplinary methods, including ethnographic and oral history techniques, geospatial mapping, filmmaking, and archiving, this work endeavors to make community perspectives and materials both visible and accessible by establishing a collaborative research practice and accompanying digital platform that fosters community narrative-making and preservation for historic posterity.

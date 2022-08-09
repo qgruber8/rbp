@@ -2,24 +2,23 @@
 layout              : page
 show_meta           : false
 title               : "Partners"
-subheadline         : "A Step-by-Step Guide"
-teaser              : "This step-by-step guide helps you to customize Feeling Responsive to your needs."
+subheadline         : "Partners and Supporters of Re/Member Black Philly."
+teaser              : ""
 header:
    image_fullwidth  : "header_banner.jpg"
 permalink           : "/partners/"
 ---
-1. Open `_config.yml` and work it through, it's well documented.
-1. Add your own `logo.png` to `/assets/img/`.
-1. Add your own social media links and open `_data/socialmedia.yml`.
-1. Open `_sass/_01_settings_colors.scss` and adjust the the colors to your taste.
-1. Ccustomize your navigation and open `_data/navigation.yml`.
-1. Translate this theme and open `_data/language.yml`.
-1. Change the links in the footer and open `_data/services.yml` and `_data/network.yml`.
-1. Open `_data/authors.yml` and edit author information and set default author in `config.yml`.
-1. Make it yours and add your own content.
-1. [Read the documentation][1] to check out all features of *Feeling Responsive*.
+# Mike Africa, Jr. (The MOVE Organization)
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">Check out the documentation for all the tricks ›</a>
+The mission of the MOVE Organization is rooted in the interdependence of all life forms and the ultimate aim of liberation from racist and capitalist systems. Mike Africa. Jr. is a second generation MOVE member and keeper of the organization’s historical memory. He is Archive Director of The MOVE Activist Archive.
 
+# West Philadelphia Cultural Alliance
 
- [1]: {{ site.url }}{{ site.baseurl }}/documentation/
+WPCA was established in 1984 to “stimulate community participation in the arts.” Through the Paul Robeson House and Museum, WPCA brings together people and organizations with diverse backgrounds in order to help them find common ground for their mutual benefit from cultural and political change. WPCA is a partner for The MOVE Activist Archive.
+
+# West Philadelphia High School Alumni Association
+
+WPHS Alumni Association supports current students by leveraging diverse networks and ensuring accountability from the school district and administrators. The Alumni Associate hosts the annual WestFest class reunion and works to preserve the institutional memory of West Philly High.
+
+# Free Library of Philadelphia
+The Free Library of Philadelphia is the generous host of RBP community digitization workshops where we facilitate public dialogue and engagement around the preservation of individual and collective memory and history in areas undergoing redevelopment, gentrification, and mass displacement.
