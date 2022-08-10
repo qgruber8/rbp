@@ -96,9 +96,17 @@ $include-html-global-classes: $include-html-classes;
 // - - - - - - - - - - - - - - - - - - - - - - - - -
 
 // We use these to define default font stacks
-// $font-family-sans-serif: "Lato", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
-// $font-family-serif: "Volkhov", Georgia, Times, serif;
-// $font-family-monospace: "Lucida Console", Monaco, monospace;
+// $font-family-sans-serif: "Century Gothic", sans-serif;
+// $font-family-serif: "Garamond", Georgia, serif;
+// $font-family-monospace: Consolas, monospace;
+
+// $body-font-family: $font-family-sans-serif;
+// $body-font-weight: normal;
+// $body-font-style: normal;
+
+// $header-font-family: "Century Gothic", sans-serif;
+// $header-font-weight: bold;
+// $header-font-style: bold;
 
 // We use these to define default font weights
 // $font-weight-normal: normal !default;
