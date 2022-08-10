@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "About"
 subheadline: ""
-teaser: "Re/Member Black Philadelphia is a digital storytelling and community archiving project."
+teaser: ""
 permalink: "/about/"
 header:
     image_fullwidth: "header_banner.jpg"
