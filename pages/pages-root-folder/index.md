@@ -11,17 +11,17 @@ widget1:
   title: "Featured Stories"
   url: '/our_work/'
   image: family-archive-photo.png
-  text: ''
+  text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
 widget2:
-  title: "Contact Us"
+  title: "About Re/Member Black Philly"
+  url: '/about/'
+  image: backlit_map.jpg
+  text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
+widget3:
+  title: "Get Involved"
   url: '/get_involved/'
   image: groupphoto_team.png
-  text: ''
-# widget3:
- # title: "Download Theme"
-  # url: 'https://github.com/Phlow/feeling-responsive'
-  # image: widget-github-303x182.jpg
-  # text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. The code is well-documented and explains you how it works.'
+  text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -33,12 +33,6 @@ widget2:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: '/contribute/'
-  text: CONTRIBUTE
-  style: alert
-permalink: /index.html
-
-callforaction:
   url: '/contact/'
   text: CONTACT US
   style: alert
@@ -49,4 +43,3 @@ permalink: /index.html
 #
 homepage: true
 ---
-
