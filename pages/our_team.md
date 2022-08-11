@@ -71,6 +71,7 @@ RBP is a collaboration between Penn’s Graduate School of Education, the Price 
         <p>Lead Design Coordinator: <a href="https://www.linkedin.com/in/quinn-gruber-257005205">Quinn Gruber</a></p>
     </div>
 </div>
+<br>
 
 <h1>Past Contributors</h1>
 <br>
