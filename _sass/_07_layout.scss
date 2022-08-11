@@ -1,14 +1,14 @@
 @charset "utf-8";
 /* TOC
 
-- Adjustments: Video Layout
-- Navigation
-- Search
 - Masthead
 - Masthead › small-only
 - Masthead › medium-only
 - Masthead › large-only
 - Masthead › xlarge-up
+- Adjustments: Video Layout
+- Navigation
+- Search
 - Breadcrumb
 - Meta
 - Jump to top
@@ -17,53 +17,6 @@
 - CSS-Classes to add margin at top or bottom
 
 */
-
-
-
-/* Adjustments: Video Layout
-------------------------------------------------------------------- */
-
-body.video,
-body.video #masthead-no-image-header { background: #000; }
-body.video #masthead-no-image-header { margin-bottom: 60px; }
-body.video h1,
-body.video h2,
-body.video h3,
-body.video h4,
-body.video h5,
-body.video h6,
-body.video p,
-body.video a,
-body.video blockquote:before,
-body.video blockquote:after,
-body.video cite a, { color: #fff; }
-body.video cite a:visited, { color: #fff; }
-body.video cite { color: #fff; }
-
-
-
-/* Navigation
-------------------------------------------------------------------- */
-
-#navigation {
-    -webkit-box-shadow: 0 2px 2px 0 rgba(0,0,0,.2);
-    box-shadow: 0 2px 3px 0 rgba(0,0,0,.2);
-
-    [class^='icon-']:before, [class*=' icon-']:before {
-        margin-right: rem-calc(8);
-    }
-}
-
-
-
-/* Search
-------------------------------------------------------------------- */
-
-.no-js form#search {
-  display: none;
-}
-
-
 
 /* Masthead
 ------------------------------------------------------------------- */
@@ -197,6 +150,53 @@ body.video cite { color: #fff; }
 #title-image-index-large {
     height: 260px;
 }
+
+
+
+
+/* Adjustments: Video Layout
+------------------------------------------------------------------- */
+
+body.video,
+body.video #masthead-no-image-header { background: #000; }
+body.video #masthead-no-image-header { margin-bottom: 60px; }
+body.video h1,
+body.video h2,
+body.video h3,
+body.video h4,
+body.video h5,
+body.video h6,
+body.video p,
+body.video a,
+body.video blockquote:before,
+body.video blockquote:after,
+body.video cite a, { color: #fff; }
+body.video cite a:visited, { color: #fff; }
+body.video cite { color: #fff; }
+
+
+
+/* Navigation
+------------------------------------------------------------------- */
+
+#navigation {
+    -webkit-box-shadow: 0 2px 2px 0 rgba(0,0,0,.2);
+    box-shadow: 0 2px 3px 0 rgba(0,0,0,.2);
+
+    [class^='icon-']:before, [class*=' icon-']:before {
+        margin-right: rem-calc(8);
+    }
+}
+
+
+
+/* Search
+------------------------------------------------------------------- */
+
+.no-js form#search {
+  display: none;
+}
+
 
 
 

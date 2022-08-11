@@ -27,7 +27,7 @@ categories:
         <p>Project Manager: <a href="https://www.linkedin.com/today/author/putriagustinos">Putri Agostinos</a></p>
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
-                <a href="#panel1a">Krystal Strong</a>
+                <a href="#panel1a">Putri</a>
         <div id="panel1a" class="content inactive">
             <p>Krystal is a scholar, community organizer, and third generation Philadelphian. As an assistant professor at University of Pennsylvania Graduate School of Education, her research and teaching focus on student and community activism, youth, and the role of education as a site of political struggle in Africa and the African Diaspora. Learn more here.</p>
         </div></div></div>        
@@ -38,7 +38,7 @@ categories:
         <p>Project Consultant: <a href="http://cassandrahradil.com/">Cassandra Hradil</a></p>
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
-                <a href="#panel1a">Krystal Strong</a>
+                <a href="#panel1a">Cassandra</a>
         <div id="panel1a" class="content inactive">
             <p>Krystal is a scholar, community organizer, and third generation Philadelphian. As an assistant professor at University of Pennsylvania Graduate School of Education, her research and teaching focus on student and community activism, youth, and the role of education as a site of political struggle in Africa and the African Diaspora. Learn more here.</p>
         </div></div></div>

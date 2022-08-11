@@ -10,7 +10,8 @@
 $include-html-grid-classes: $include-html-classes !default;
 $include-xl-html-grid-classes: false !default;
 
-$row-width: rem-calc(1000) !default;
+$row-width: rem-calc(800) !default;
+$column-gutter: rem-calc(100) !default;
 $total-columns: 12 !default;
 
 $last-child-float: $opposite-direction !default;
