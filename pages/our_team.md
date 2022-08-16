@@ -24,7 +24,7 @@ header:
 
 <div class="row 2">
     <div class="large-6 columns">
-        <img src="{{ site.urlimg }}webdesign_screenshot_andersneu.jpg" alt="">
+        <img src="{{ site.urlimg }}placeholder.jpg" alt="">
         <p>Project Manager: <a href="https://agustinosputri.github.io/">Putri Agostinos</a></p>
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
@@ -34,7 +34,7 @@ header:
         </div></div></div>        
     </div>
     <div class="large-6 columns">
-        <img src="{{ site.urlimg }}webdesign_screenshot_moritz_sauer.jpg" alt="">
+        <img src="{{ site.urlimg }}placeholder.jpg" alt="">
         <p>Project Consultant: <a href="http://cassandrahradil.com/">Cassandra Hradil</a></p>
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
@@ -48,24 +48,22 @@ header:
 
 <div class="row 3">
     <div class="large-6 columns">
-        <img src="{{ site.urlimg }}webdesign_screenshot_andersneu.jpg" alt="">
+        <img src="{{ site.urlimg }}placeholder.jpg" alt="">
         <p>Project Consultant: <a href="https://www.library.upenn.edu/people/staff/cynthia-heider">Cynthia Heider</a></p>
     </div>
-
     <div class="large-6 columns">
-        <img src="{{ site.urlimg }}webdesign_screenshot_moritz_sauer.jpg" alt="">
+        <img src="{{ site.urlimg }}placeholder.jpg" alt="">
         <p>Project Consultant: <a href="https://www.library.upenn.edu/people/staff/nicky-agate">Nicky Agate</a></p>
     </div>
 </div>
 <br>
-
 <div class="row 4">
     <div class="large-6 columns">
-        <img src="{{ site.urlimg }}mjd_bw.jpg" alt="">
+        <img src="{{ site.urlimg }}placeholder.jpg" alt="">
         <p>Project Technical Lead: <a href="http://maxjohnsondugan.com/">Max Johnson Dugan</a></p>
     </div>
     <div class="large-6 columns">
-        <img src="{{ site.urlimg }}webdesign_screenshot_moritz_sauer.jpg" alt="">
+        <img src="{{ site.urlimg }}placeholder.jpg" alt="">
         <p>Lead Design Coordinator: <a href="https://www.linkedin.com/in/quinn-gruber-257005205">Quinn Gruber</a></p>
     </div>
 </div>
