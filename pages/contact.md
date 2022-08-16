@@ -8,9 +8,7 @@ permalink           : "/get_involved/contact/"
 header:
     image_fullwidth: "header_banner.jpg"
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-[model Google form like SPA:](http://schoolprotests.com/contribute/)
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdQG8DOFnTxyP4HL1UXzFmh52QdZgXVOaqYiKtu48WJEM06Zw/viewform?embedded=true" width="640" height="1232" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 

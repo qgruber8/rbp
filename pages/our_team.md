@@ -7,11 +7,11 @@ permalink: "/about/our_team/"
 header:
     image_fullwidth: "header_banner.jpg"
 ---
-RBP is a collaboration between Penn’s Graduate School of Education, the Price Lab for the Digital Humanities, Penn Libraries’ Digital Scholarship Group, Penn Immersive, and community partners. Our team includes scholars, librarians, archivists, media-makers, Penn graduate and undergraduate students, and community members with expertise in interdisciplinary methods including ethnographic and oral history techniques, geospatial mapping, filmmaking, and augmented and virtual reality.
+<p>RBP is a collaboration between Penn’s Graduate School of Education, the Price Lab for the Digital Humanities, Penn Libraries’ Digital Scholarship Group, Penn Immersive, and community partners. Our team includes scholars, librarians, archivists, media-makers, Penn graduate and undergraduate students, and community members with expertise in interdisciplinary methods including ethnographic and oral history techniques, geospatial mapping, filmmaking, and augmented and virtual reality.</p>
 
 <div class="row KS 1">
     <div class="small-12 large-6 large-centered columns">
-        <img src="{{ site.urlimg }}webdesign_screenshot_andersneu.jpg" alt="">
+        <img src="{{ site.urlimg }}Strong_Krystal_0-683x1024.jpg" alt="">
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
                 <a href="#panel1a">Project Director: Krystal Strong</a>
@@ -25,7 +25,7 @@ RBP is a collaboration between Penn’s Graduate School of Education, the Price 
 <div class="row 2">
     <div class="large-6 columns">
         <img src="{{ site.urlimg }}webdesign_screenshot_andersneu.jpg" alt="">
-        <p>Project Manager: <a href="https://www.linkedin.com/today/author/putriagustinos">Putri Agostinos</a></p>
+        <p>Project Manager: <a href="https://agustinosputri.github.io/">Putri Agostinos</a></p>
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
                 <a href="#panel1a">Putri</a>
@@ -33,7 +33,6 @@ RBP is a collaboration between Penn’s Graduate School of Education, the Price 
             <p>Krystal is a scholar, community organizer, and third generation Philadelphian. As an assistant professor at University of Pennsylvania Graduate School of Education, her research and teaching focus on student and community activism, youth, and the role of education as a site of political struggle in Africa and the African Diaspora. Learn more here.</p>
         </div></div></div>        
     </div>
-
     <div class="large-6 columns">
         <img src="{{ site.urlimg }}webdesign_screenshot_moritz_sauer.jpg" alt="">
         <p>Project Consultant: <a href="http://cassandrahradil.com/">Cassandra Hradil</a></p>
@@ -65,7 +64,6 @@ RBP is a collaboration between Penn’s Graduate School of Education, the Price 
         <img src="{{ site.urlimg }}mjd_bw.jpg" alt="">
         <p>Project Technical Lead: <a href="http://maxjohnsondugan.com/">Max Johnson Dugan</a></p>
     </div>
-
     <div class="large-6 columns">
         <img src="{{ site.urlimg }}webdesign_screenshot_moritz_sauer.jpg" alt="">
         <p>Lead Design Coordinator: <a href="https://www.linkedin.com/in/quinn-gruber-257005205">Quinn Gruber</a></p>
