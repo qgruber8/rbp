@@ -7,10 +7,10 @@
 layout: frontpage
 header:
   image_fullwidth: header_banner.jpg
-#image:
-#    title: cropped-cropped-cropped-odunde30-27-1.jpg
- #   caption: Photo from the 2019 Odunde Festival.
- #   caption_url: https://www.odundefestival.org/
+image:
+  title: cropped-cropped-cropped-odunde30-27-1.jpg
+  caption: Photo from the 2019 Odunde Festival.
+  caption_url: https://www.odundefestival.org/
 widget1:
   title: "Featured Projects"
   url: '/our_work/'
