@@ -5,6 +5,11 @@
   class: "network-entypo"
   title: "Icons by Daniel Bruce"
 
+- name: "Based on Feeling Responsive"
+  url: "http://phlow.github.io/feeling-responsive/"
+  class: "services-newsletter"
+  title: "Based on Feeling Responsive"
+
 - name: "Built on Foundation"
   url: "http://foundation.zurb.com/"
   class: "services-newsletter"
