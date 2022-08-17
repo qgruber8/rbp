@@ -11,6 +11,7 @@
 - Accordion
 - Lazy Load XT
 - Frontpage Widget
+- Map
 
 */
 
@@ -23,10 +24,10 @@
 #toc ul ul,
 #toc ul ul ul, {
     list-style: none;
-    margin-left: 30px;
+    margin-left: 20px;
 }
 #toc ul {
-    margin-left: 0;
+    margin-left: 20;
     margin-top: $spacing-unit;
 }
 
@@ -159,4 +160,13 @@ img.lazy {
     padding-top: 50px;
     margin-top: -50px;
   }
+}
+
+/* Map
+------------------------------------------------------------------- */
+
+.map { 
+  height: 480;
+  width: 100%;
+  border-radius: $global-radius;
 }
