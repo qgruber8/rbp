@@ -13,7 +13,7 @@ header:
 
 <div class="row KS 1">
     <div class="small-12 large-6 large-centered columns">
-        <img src="{{ site.urlimg }}Strong_Krystal_0-683x1024.jpg" alt="">
+        <img src="{{ site.urlimg }}Strong_Krystal.jpg" alt="">
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
                 <a href="#panel1a">Project Director: Krystal Strong, Ph.D.</a>
