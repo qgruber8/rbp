@@ -17,7 +17,6 @@ $accordion-navigation-active-bg-color: #EB9D25 !default;
 $accordion-navigation-font-color: #000 !default;
 $accordion-navigation-font-size: rem-calc(16) !default;
 $accordion-navigation-font-family: $body-font-family !default;
-$accordion-navigation-text-align: center !default;
 
 $accordion-content-padding: ($column-gutter/2) !default;
 $accordion-content-active-bg-color: $white !default;
@@ -43,7 +42,7 @@ $accordion-content-active-bg-color: $white !default;
 //    @params $font-family [ string ]: Specify the font family for the text of the navigation of the accordion
 
 @mixin accordion-navigation( $bg: $accordion-navigation-bg-color, $hover-bg: $accordion-navigation-hover-bg-color, $active-bg: $accordion-navigation-active-bg-color, $padding: $accordion-navigation-padding, $active_class: 'active',  $font-color: $accordion-navigation-font-color, $font-size: $accordion-navigation-font-size, $font-family:
-$accordion-navigation-font-family, $text-align: $accordion-navigation-text-align, ){
+$accordion-navigation-font-family,){
   display: block;
   margin-bottom: 0 !important;
   @if type-of($active_class) != "string" {

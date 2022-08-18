@@ -13,7 +13,7 @@ permalink           : "/partners/"
         <img src="{{ site.urlimg }}MOVE.jpg" alt="">
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
-                <a href="#panel1a">Mike Africa, Jr. (The MOVE Organization)</a>
+                <a href="#panel1a" class="text-center">Mike Africa, Jr. (The MOVE Organization)</a>
                 <div id="panel1a" class="content inactive">
                     <p>The mission of the MOVE Organization is rooted in the interdependence of all life forms and the ultimate aim of liberation from racist and capitalist systems. Mike Africa. Jr. is a second generation MOVE member and keeper of the organization’s historical memory. He is Archive Director of The MOVE Activist Archive.</p>
                 </div>
@@ -24,7 +24,7 @@ permalink           : "/partners/"
         <img src="{{ site.urlimg }}placeholder.jpg" alt="">
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
-                <a href="#panel2a">West Philadelphia Cultural Alliance</a>
+                <a href="#panel2a" class="text-center">West Philadelphia Cultural Alliance</a>
                 <div id="panel2a" class="content inactive">
                     <p>WPCA was established in 1984 to “stimulate community participation in the arts.” Through the Paul Robeson House and Museum, WPCA brings together people and organizations with diverse backgrounds in order to help them find common ground for their mutual benefit from cultural and political change. WPCA is a partner for The MOVE Activist Archive.</p>
                 </div>
@@ -39,7 +39,7 @@ permalink           : "/partners/"
         <img src="{{ site.urlimg }}wphsaa_classic.jpg" alt="">
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
-                <a href="#panel3a">West Philadelphia High School Alumni Association</a>
+                <a href="#panel3a" class="text-center">West Philadelphia High School Alumni Association</a>
                 <div id="panel3a" class="content inactive">
                     <p>WPHS Alumni Association supports current students by leveraging diverse networks and ensuring accountability from the school district and administrators. The Alumni Associate hosts the annual WestFest class reunion and works to preserve the institutional memory of West Philly High.</p>
                 </div>
@@ -50,7 +50,7 @@ permalink           : "/partners/"
         <img src="{{ site.urlimg }}placeholder.jpg" alt="">
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
-                <a href="#panel4a">Free Library of Philadelphia</a>
+                <a href="#panel4a" class="text-center">Free Library of Philadelphia</a>
                 <div id="panel4a" class="content inactive">
                     <p>The Free Library of Philadelphia is the generous host of RBP community digitization workshops where we facilitate public dialogue and engagement around the preservation of individual and collective memory and history in areas undergoing redevelopment, gentrification, and mass displacement.</p>
                 </div>
@@ -62,10 +62,10 @@ permalink           : "/partners/"
 <div class="row 4">
     <div class="large-6 columns">
         <img src="{{ site.urlimg }}price_logo.png" alt="">
-        <p><a href="https://pricelab.sas.upenn.edu/">Price Lab for Digital Humanities</a></p>
+        <p class="text-center"><a href="https://pricelab.sas.upenn.edu/">Price Lab for Digital Humanities</a></p>
     </div>
     <div class="large-6 columns">
         <img src="{{ site.urlimg }}placeholder.jpg" alt="">
-        <p>Lead Design Coordinator: <a href="https://www.linkedin.com/in/quinn-gruber-257005205">Quinn Gruber</a></p>
+        <p class="text-center">Lead Design Coordinator: <a href="https://www.linkedin.com/in/quinn-gruber-257005205">Quinn Gruber</a></p>
     </div>
 </div>
