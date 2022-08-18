@@ -9,64 +9,103 @@ header:
 ---
 <p>RBP is a collaboration between Penn’s Graduate School of Education, the Price Lab for the Digital Humanities, Penn Libraries’ Digital Scholarship Group, Penn Immersive, and community partners. Our team includes scholars, librarians, archivists, media-makers, Penn graduate and undergraduate students, and community members with expertise in interdisciplinary methods including ethnographic and oral history techniques, geospatial mapping, filmmaking, and augmented and virtual reality.</p>
 
+<br>
+
 <div class="row KS 1">
     <div class="small-12 large-6 large-centered columns">
         <img src="{{ site.urlimg }}Strong_Krystal_0-683x1024.jpg" alt="">
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
-                <a href="#panel1a">Project Director: Krystal Strong</a>
-        <div id="panel1a" class="content inactive">
-            <p><a href="https://anthropology.sas.upenn.edu/people/krystal-strong">Krystal Strong</a> is a scholar, community organizer, and third generation Philadelphian. As an assistant professor at University of Pennsylvania Graduate School of Education, her research and teaching focus on student and community activism, youth, and the role of education as a site of political struggle in Africa and the African Diaspora. Learn more here.</p>
-        </div></div></div>
+                <a href="#panel1a">Project Director: Krystal Strong, Ph.D.</a>
+                <div id="panel1a" class="content inactive">
+                    <p><a href="https://anthropology.sas.upenn.edu/people/krystal-strong">Krystal Strong</a> is a scholar, community organizer, and third generation Philadelphian. As an assistant professor at University of Pennsylvania Graduate School of Education, her research and teaching focus on student and community activism, youth, and the role of education as a site of political struggle in Africa and the African Diaspora.</p>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
+
 <br>
 
 <div class="row 2">
     <div class="large-6 columns">
-        <img src="{{ site.urlimg }}placeholder.jpg" alt="">
-        <p>Project Manager: <a href="https://agustinosputri.github.io/">Putri Agostinos</a></p>
+        <img src="{{ site.urlimg }}Strong_Krystal_0-683x1024.jpg" alt="">
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
-                <a href="#panel1a">Putri</a>
-        <div id="panel1a" class="content inactive">
-            <p>Krystal is a scholar, community organizer, and third generation Philadelphian. As an assistant professor at University of Pennsylvania Graduate School of Education, her research and teaching focus on student and community activism, youth, and the role of education as a site of political struggle in Africa and the African Diaspora. Learn more here.</p>
-        </div></div></div>        
+                <a href="#panel2a">Project Manager: Putri Augostinos</a>
+                <div id="panel2a" class="content inactive">
+                    <p><a href="https://agustinosputri.github.io/">Putri Agostinos</a> lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                </div>
+            </div>
+        </div>
     </div>
     <div class="large-6 columns">
-        <img src="{{ site.urlimg }}placeholder.jpg" alt="">
-        <p>Project Consultant: <a href="http://cassandrahradil.com/">Cassandra Hradil</a></p>
+        <img src="{{ site.urlimg }}Strong_Krystal_0-683x1024.jpg" alt="">
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
-                <a href="#panel1a">Cassandra</a>
-        <div id="panel1a" class="content inactive">
-            <p>Krystal is a scholar, community organizer, and third generation Philadelphian. As an assistant professor at University of Pennsylvania Graduate School of Education, her research and teaching focus on student and community activism, youth, and the role of education as a site of political struggle in Africa and the African Diaspora. Learn more here.</p>
-        </div></div></div>
+                <a href="#panel3a">Project Consultant: Cassandra Hradil</a>
+                <div id="panel3a" class="content inactive">
+                    <p><a href="http://cassandrahradil.com/">Cassandra</a> lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
+
 <br>
 
 <div class="row 3">
     <div class="large-6 columns">
-        <img src="{{ site.urlimg }}placeholder.jpg" alt="">
-        <p>Project Consultant: <a href="https://www.library.upenn.edu/people/staff/cynthia-heider">Cynthia Heider</a></p>
+        <img src="{{ site.urlimg }}Strong_Krystal_0-683x1024.jpg" alt="">
+        <div class="accordion" data-accordion>
+            <div class="accordion-navigation">
+                <a href="#panel4a">Project Consultant: Cynthia Heider</a>
+                <div id="panel4a" class="content inactive">
+                    <p><a href="https://www.library.upenn.edu/people/staff/cynthia-heider">Cynthia</a> lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                </div>
+            </div>
+        </div>        
     </div>
     <div class="large-6 columns">
-        <img src="{{ site.urlimg }}placeholder.jpg" alt="">
-        <p>Project Consultant: <a href="https://www.library.upenn.edu/people/staff/nicky-agate">Nicky Agate</a></p>
+        <img src="{{ site.urlimg }}Strong_Krystal_0-683x1024.jpg" alt="">
+        <div class="accordion" data-accordion>
+            <div class="accordion-navigation">
+                <a href="#panel5a">Project Consultant: Nicky Agate</a>
+                <div id="panel5a" class="content inactive">
+                    <p><a href="https://www.library.upenn.edu/people/staff/cynthia-heider">Nicky</a> lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
+
 <br>
+
 <div class="row 4">
     <div class="large-6 columns">
-        <img src="{{ site.urlimg }}placeholder.jpg" alt="">
-        <p>Project Technical Lead: <a href="http://maxjohnsondugan.com/">Max Johnson Dugan</a></p>
+        <img src="{{ site.urlimg }}Strong_Krystal_0-683x1024.jpg" alt="">
+        <div class="accordion" data-accordion>
+            <div class="accordion-navigation">
+                <a href="#panel6a">Project Technical Lead: Max Johnson Dugan</a>
+                <div id="panel6a" class="content inactive">
+                    <p><a href="http://maxjohnsondugan.com/">Max</a> lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                </div>
+            </div>
+        </div>        
     </div>
     <div class="large-6 columns">
-        <img src="{{ site.urlimg }}placeholder.jpg" alt="">
-        <p>Lead Design Coordinator: <a href="https://www.linkedin.com/in/quinn-gruber-257005205">Quinn Gruber</a></p>
+        <img src="{{ site.urlimg }}Strong_Krystal_0-683x1024.jpg" alt="">
+        <div class="accordion" data-accordion>
+            <div class="accordion-navigation">
+                <a href="#panel7a">Lead Design Coordinator: Quinn Gruber</a>
+                <div id="panel7a" class="content inactive">
+                    <p><a href="https://www.linkedin.com/in/quinn-gruber-257005205">Quinn</a> lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
+
 <br>
 
 <h1>Past Contributors</h1>
