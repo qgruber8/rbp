@@ -11,12 +11,13 @@
 $include-html-accordion-classes: $include-html-classes !default;
 
 $accordion-navigation-padding: rem-calc(16) !default;
-$accordion-navigation-bg-color: $silver !default;
-$accordion-navigation-hover-bg-color: scale-color($accordion-navigation-bg-color, $lightness: -5%) !default;
-$accordion-navigation-active-bg-color: scale-color($accordion-navigation-bg-color, $lightness: -3%) !default;
-$accordion-navigation-font-color: $jet !default;
+$accordion-navigation-bg-color: #E98E1C !default;
+$accordion-navigation-hover-bg-color: #F3C37C !default;
+$accordion-navigation-active-bg-color: #EB9D25 !default;
+$accordion-navigation-font-color: #000 !default;
 $accordion-navigation-font-size: rem-calc(16) !default;
 $accordion-navigation-font-family: $body-font-family !default;
+$accordion-navigation-text-align: center !default;
 
 $accordion-content-padding: ($column-gutter/2) !default;
 $accordion-content-active-bg-color: $white !default;
@@ -32,16 +33,17 @@ $accordion-content-active-bg-color: $white !default;
   margin-bottom: 0;
 }
 
-//  Mixin: accordion-navigation( $bg, $hover-bg, $active-bg, $padding, $active_class,  $font-color, $font-size, $font-family){
+//  Mixin: accordion-navigation( $bg, $hover-bg, $active-bg, $padding, $active_class,  $font-color, $font-size, $font-family, $text-align){
 //    @params $bg-color: [ color or string ]: Specify the background color for the navigation element
 //    @params $hover-bg-color [ color or string ]: Specify the background color for the navigation element when hovered
 //    @params $active-bg [ color or string ]: Specify the background color for the navigation element when clicked and not released.
 //    @params $active_class [ string ]: Specify the class name used to keep track of which accordion tab should be visible
 //    @params $font-color [ color or string ]: Color of the font for accordion
 //    @params $font-size [ number ]: Specifiy the font-size of the text inside the navigation element
-//    @params $font-family [ string ]: Specify the font family for the text of the navigation of the accorion
+//    @params $font-family [ string ]: Specify the font family for the text of the navigation of the accordion
 
-@mixin accordion-navigation( $bg: $accordion-navigation-bg-color, $hover-bg: $accordion-navigation-hover-bg-color, $active-bg: $accordion-navigation-active-bg-color, $padding: $accordion-navigation-padding, $active_class: 'active',  $font-color: $accordion-navigation-font-color, $font-size: $accordion-navigation-font-size, $font-family: $accordion-navigation-font-family ){
+@mixin accordion-navigation( $bg: $accordion-navigation-bg-color, $hover-bg: $accordion-navigation-hover-bg-color, $active-bg: $accordion-navigation-active-bg-color, $padding: $accordion-navigation-padding, $active_class: 'active',  $font-color: $accordion-navigation-font-color, $font-size: $accordion-navigation-font-size, $font-family:
+$accordion-navigation-font-family, $text-align: $accordion-navigation-text-align, ){
   display: block;
   margin-bottom: 0 !important;
   @if type-of($active_class) != "string" {

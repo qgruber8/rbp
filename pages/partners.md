@@ -57,8 +57,8 @@ permalink           : "/partners/"
 <br>
 <div class="row 4">
     <div class="large-6 columns">
-        <img src="{{ site.urlimg }}placeholder.jpg" alt="">
-        <p>Project Technical Lead: <a href="http://maxjohnsondugan.com/">Max Johnson Dugan</a></p>
+        <img src="{{ site.urlimg }}price_logo.png" alt="">
+        <p><a href="https://pricelab.sas.upenn.edu/">Price Lab for Digital Humanities</a></p>
     </div>
     <div class="large-6 columns">
         <img src="{{ site.urlimg }}placeholder.jpg" alt="">
