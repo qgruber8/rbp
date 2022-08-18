@@ -29,7 +29,7 @@ header:
 
 <div class="row 2">
     <div class="large-6 columns">
-        <img src="{{ site.urlimg }}Strong_Krystal_0-683x1024.jpg" alt="">
+        <img src="{{ site.urlimg }}placeholder.jpg" alt="">
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
                 <a href="#panel2a">Project Manager: Putri Augostinos</a>
@@ -40,7 +40,7 @@ header:
         </div>
     </div>
     <div class="large-6 columns">
-        <img src="{{ site.urlimg }}Strong_Krystal_0-683x1024.jpg" alt="">
+        <img src="{{ site.urlimg }}placeholder.jpg" alt="">
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
                 <a href="#panel3a">Project Consultant: Cassandra Hradil</a>
@@ -56,7 +56,7 @@ header:
 
 <div class="row 3">
     <div class="large-6 columns">
-        <img src="{{ site.urlimg }}Strong_Krystal_0-683x1024.jpg" alt="">
+        <img src="{{ site.urlimg }}placeholder.jpg" alt="">
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
                 <a href="#panel4a">Project Consultant: Cynthia Heider</a>
@@ -67,7 +67,7 @@ header:
         </div>        
     </div>
     <div class="large-6 columns">
-        <img src="{{ site.urlimg }}Strong_Krystal_0-683x1024.jpg" alt="">
+        <img src="{{ site.urlimg }}placeholder.jpg" alt="">
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
                 <a href="#panel5a">Project Consultant: Nicky Agate</a>
@@ -83,7 +83,7 @@ header:
 
 <div class="row 4">
     <div class="large-6 columns">
-        <img src="{{ site.urlimg }}Strong_Krystal_0-683x1024.jpg" alt="">
+        <img src="{{ site.urlimg }}placeholder.jpg" alt="">
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
                 <a href="#panel6a">Project Technical Lead: Max Johnson Dugan</a>
@@ -94,7 +94,7 @@ header:
         </div>        
     </div>
     <div class="large-6 columns">
-        <img src="{{ site.urlimg }}Strong_Krystal_0-683x1024.jpg" alt="">
+        <img src="{{ site.urlimg }}placeholder.jpg" alt="">
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
                 <a href="#panel7a">Lead Design Coordinator: Quinn Gruber</a>
@@ -111,15 +111,17 @@ header:
 <h1>Past Contributors</h1>
 <br>
 
-<p>Jennifer Garcon, Ph.D., Project Archivist. Jennifer is the Digital Scholarship Librarian at Penn Libraries. She works to expand the libraries capacity to support the preservation of a vdivnerable collection of data, through strategic partnership building and community collaboration.</p>
+<p><b>Jennifer Garcon</b>, Ph.D. - Project Archivist. Jennifer is the Librarian for Modern and Contemporary Special Collections at Princeton Library. She works to expand the libraries capacity to support the preservation of a vulnerable collection of data, through strategic partnership building and community collaboration.</p>
  
-<p>Marc Holley, Director of Digital Media. Marc is Founder & CEO of the 2658Story. He brings experience and expertise in storytelling and of digital media programming to RBP with the goal of using storytelling as a vehicle for community engagement and social change.</p>
-
-
-<p>Siyang You, Django Developer</p>
-<p>Nia Hammond, Web Designer and Developer</p>
-<p>Ansharaye Hines is a Philadelphia native and teacher at Mastery Charter, Shoemaker campus. Ansharaye is a producer, editor, and videographer for the web series.</p>
-<p>Ivy Williams is an undergraduate student at Penn and producing a documentary project on Philly’s “Black Bottom” for her thesis. Supported by the Penn Undergraduate Research Mentoring program, Ivy is a research assistant for the project and an assistant producer and videographer for the web series.</p>
-<p>Vince Anthony is a Philadelphia musician, songwriter, and recording artist working as the Music Director for the web series.</p>
-<p>Nicky Agate, the Snyder-Granader Assistant University Librarian for Research Data and Digital Scholarship.</p>
-<p>Tajah Ebram, doctoral student in the Department of English.</p>
+<p><b>Marc Holley</b> - Director of Digital Media. Marc is Founder & CEO of the 2658Story. He brings experience and expertise in storytelling and of digital media programming to RBP with the goal of using storytelling as a vehicle for community engagement and social change.</p>
+ 
+<p><b>Ansharaye Hines</b> - Producer, Editor, and Videographer. Ansharaye is a Philadelphia native and teacher at Mastery Charter, Shoemaker campus.</p>
+<p><b>Monique Perry</b> - Producer, Editor, and Videographer. Monique is a longterm Philly resident, educator, and Education doctoral student at UPenn.</p> 
+<p><b>Ivy Williams</b> - Research Assistant & Assistant Producer and Videographer. Ivy is an undergraduate student at Penn and producing a documentary project on Philly’s “Black Bottom” for her thesis. Ivy’s work on Re/member Black Philadelphia is supported by the Penn Undergraduate Research Mentoring program.</p>
+<p><b>Vince Anthony</b> - Music Director. Vince  is a Philadelphia musician, songwriter, and recording artist.</p>
+<p><b>Sasha Renninger</b> - Lead Developer.</p>
+<p><b>Siyang You</b> - Django Developer.</p>
+<p><b>Irene Zhang</b> - Django and OpenLayers Developer.</p>
+<p><b>Nia Hammond - Web Designer and Developer.</p>
+<p><b>Miranda Mote</b> - Graphic Designer.</p>
+<p><b>Tajah Ebram</b>, Ph.D. - Researcher and Copywriter. Tajah was a doctoral candidate in the Department of English.</p>
