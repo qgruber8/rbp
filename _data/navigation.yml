@@ -19,10 +19,6 @@
     url: "/our_work/projects/"
   - title: "MAP"
     url: "/our_work/map/"
-  - title: "THEMES"
-    url: "/our_work/themes/"
-  - title: "EVENTS"
-    url: "/our_work/events/"
 
 - title: PARTNERS
   url: "/partners/"
