@@ -64,10 +64,16 @@ permalink           : "/partners/"
 <div class="row 4">
     <div class="large-6 columns">
         <img src="{{ site.urlimg }}price_logo.png" alt="">
-        <p class="text-center"><a href="https://pricelab.sas.upenn.edu/">Price Lab for Digital Humanities</a></p>
+        <div class="accordion" data-accordion>
+            <div class="accordion-navigation">
+                <a href="#panel4a" class="text-center">Price Lab for Digital Humanities</a>
+                <div id="panel4a" class="content inactive">
+                    <p>The Free Library of Philadelphia is the generous host of RBP community digitization workshops where we facilitate public dialogue and engagement around the preservation of individual and collective memory and history in areas undergoing redevelopment, gentrification, and mass displacement.</p>
+                </div>
+            </div>
+        </div>
     </div>
     <div class="large-6 columns">
-        <img src="{{ site.urlimg }}placeholder.jpg" alt="">
-        <p class="text-center">Lead Design Coordinator: <a href="https://www.linkedin.com/in/quinn-gruber-257005205">Quinn Gruber</a></p>
+        <img src="{{ site.urlimg }}" alt="">
     </div>
 </div>
