@@ -15,7 +15,7 @@ header:
 
 <div class="row KS 1">
     <div class="small-12 large-6 large-centered columns">
-        <img src="{{ site.urlimg }}Strong_Krystal.jpg" alt="">
+        <img src="{{ site.urlimg }}Strong_Krystal_crop.jpg" alt="">
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
                 <a href="#panel1a" class="text-center">Project Director: Krystal Strong, Ph.D.</a>
@@ -85,7 +85,7 @@ header:
 
 <div class="row 4">
     <div class="large-6 columns">
-        <img src="{{ site.urlimg }}placeholder.jpg" alt="">
+        <img src="{{ site.urlimg }}MJDugan.jpg" alt="">
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
                 <a href="#panel6a" class="text-center">Project Technical Lead: Max Johnson Dugan</a>
