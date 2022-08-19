@@ -88,7 +88,7 @@ header:
         <img src="{{ site.urlimg }}MJDugan.jpg" alt="">
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
-                <a href="#panel6a" class="text-center">Project Technical Lead: Max Johnson Dugan</a>
+                <a href="#panel6a" class="text-center">Project Technical Lead: Max J. Dugan</a>
                 <div id="panel6a" class="content inactive">
                     <p><a href="http://maxjohnsondugan.com/">Max</a> lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                 </div>
