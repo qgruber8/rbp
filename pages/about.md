@@ -5,7 +5,7 @@ subheadline: ""
 teaser: ""
 permalink: "/about/"
 header:
-    image_fullwidth: "header_banner.jpg"
+    image_fullwidth: "header_banner_larger.jpg"
 ---
 <p>Re/Member Black Philadelphia is a multimodal digital scholarship and community archiving project that investigates the increasingly endangered contexts of Black social and cultural life against the backdrop of this systematic displacement. First and foremost, this project is an act of love for Black Philadelphia and of resistance to the erasure of Black communities in Philadelphia, as in many parts of the world. Conceptualized in 2014, Re/Member Black Philadelphia utilizes digital media and technology to document and celebrate the rich experiences, institutions, spaces, and cultures of Black people in the city.</p>
 
