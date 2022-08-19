@@ -12,7 +12,7 @@
     url: "/about/our_team/"
 
 - title: "OUR WORK"
-  url: "/our_work/"
+  url: "/"
   side: left
   dropdown:
   - title: "PROJECTS"
@@ -29,7 +29,7 @@
   side: left
 
 - title: "GET INVOLVED"
-  url: "/get_involved/"
+  url: "/"
   side: left
   dropdown:
   - title: "CONTRIBUTE"

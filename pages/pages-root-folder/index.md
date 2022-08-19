@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_banner.jpg
+  image_fullwidth: "header_banner_larger.jpg"
 image:
   title: odunde_2019.jpg
   caption: Photo from the 2019 Odunde Festival.
