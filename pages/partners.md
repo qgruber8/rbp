@@ -5,7 +5,7 @@ title               : "Partners"
 subheadline         : ""
 teaser              : ""
 header:
-   image_fullwidth  : "header_banner_larger.jpg"
+   image_fullwidth  : header_banner_larger.jpg
 permalink           : "/partners/"
 ---
 <div class="row 2">
