@@ -1,26 +1,26 @@
 - menu_name: "Thank You"
 
+- name: "Price Lab for DH"
+  url: "https://pricelab.sas.upenn.edu/"
+  class: "rss-link"
+  title: "Price Lab for Digital Humanities"
+
+- name: "Penn Libraries"
+  url: "https://www.library.upenn.edu/help-with/research-data-digital-scholarship"
+  class: "sitemap-link"
+  title: "Penn Libraries Digital Scholarship Team"
+
 - name: "Icons by Daniel Bruce"
   url: "http://entypo.com/"
   class: "network-entypo"
   title: "Icons by Daniel Bruce"
 
-- name: "Based on Feeling Responsive"
+- name: "Phlow"
   url: "http://phlow.github.io/feeling-responsive/"
   class: "services-newsletter"
   title: "Based on Feeling Responsive"
 
-- name: "Built on Foundation"
+- name: "Foundation"
   url: "http://foundation.zurb.com/"
   class: "services-newsletter"
   title: "Built on Foundation"
-
-- name: "Price Lab for Digital Humanities"
-  url: "https://pricelab.sas.upenn.edu/"
-  class: "rss-link"
-  title: "Price Lab for Digital Humanities"
-
-- name: "Penn Libraries Digital Scholarship Team"
-  url: "https://www.library.upenn.edu/help-with/research-data-digital-scholarship"
-  class: "sitemap-link"
-  title: "Penn Libraries Digital Scholarship Team"
