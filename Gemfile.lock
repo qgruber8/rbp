@@ -82,6 +82,7 @@ GEM
 
 PLATFORMS
   arm64-darwin-21
+  universal-darwin-20
   x64-mingw32
 
 DEPENDENCIES
@@ -93,4 +94,4 @@ DEPENDENCIES
   jekyll-paginate
 
 BUNDLED WITH
-   2.3.19
+   2.3.9
