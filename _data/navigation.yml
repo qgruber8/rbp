@@ -6,6 +6,8 @@
   url: "/about/"
   side: left
   dropdown:
+  - title: "ABOUT"
+    url: "/about/"
   - title: "OUR GOALS"
     url: "/about/our_goals/"
   - title: "TEAM"

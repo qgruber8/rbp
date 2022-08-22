@@ -11,7 +11,7 @@ header:
 ---
 <div class="row 2">
     <div class="large-6 columns">
-        <img src="{{ site.urlimg }}family-archive-photo.png" alt="">
+        <img src="{{ site.urlimg }}family-archive-photo_crop.jpg" alt="">
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
                 <a href="#panel1a" class="text-center">Preserving Family Histories</a>
@@ -48,7 +48,7 @@ header:
         </div>
     </div>
      <div class="large-6 columns">
-        <img src="{{ site.urlimg }}placeholder.jpg" alt="">
+        <img src="{{ site.urlimg }}placeholder_crop.jpg" alt="">
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
                 <a href="#panel4a" class="text-center">Black Resistance Tour</a>
