@@ -31,7 +31,7 @@ header:
 
 <div class="row 2">
     <div class="large-6 columns">
-        <img src="{{ site.urlimg }}placeholder.jpg" alt="">
+        <img src="{{ site.urlimg }}placeholder_team.jpg" alt="">
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
                 <a href="#panel2a" class="text-center">Project Manager: Putri Augostinos</a>
@@ -42,7 +42,7 @@ header:
         </div>
     </div>
     <div class="large-6 columns">
-        <img src="{{ site.urlimg }}placeholder.jpg" alt="">
+        <img src="{{ site.urlimg }}placeholder_team.jpg" alt="">
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
                 <a href="#panel3a" class="text-center">Project Consultant: Cassandra Hradil</a>
@@ -58,7 +58,7 @@ header:
 
 <div class="row 3">
     <div class="large-6 columns">
-        <img src="{{ site.urlimg }}placeholder.jpg" alt="">
+        <img src="{{ site.urlimg }}placeholder_team.jpg" alt="">
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
                 <a href="#panel4a" class="text-center">Project Consultant: Cynthia Heider</a>
@@ -69,7 +69,7 @@ header:
         </div>        
     </div>
     <div class="large-6 columns">
-        <img src="{{ site.urlimg }}placeholder.jpg" alt="">
+        <img src="{{ site.urlimg }}placeholder_team.jpg" alt="">
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
                 <a href="#panel5a" class="text-center">Project Consultant: Nicky Agate</a>
@@ -96,7 +96,7 @@ header:
         </div>        
     </div>
     <div class="large-6 columns">
-        <img src="{{ site.urlimg }}placeholder.jpg" alt="">
+        <img src="{{ site.urlimg }}placeholder_team.jpg" alt="">
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
                 <a href="#panel7a" class="text-center">Lead Design Coordinator: Quinn Gruber</a>
