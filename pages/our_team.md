@@ -124,6 +124,6 @@ header:
 <p><b>Sasha Renninger</b> - Lead Developer.</p>
 <p><b>Siyang You</b> - Django Developer.</p>
 <p><b>Irene Zhang</b> - Django and OpenLayers Developer.</p>
-<p><b>Nia Hammond - Web Designer and Developer.</p>
+<p><b>Nia Hammond</b> - Web Designer and Developer.</p>
 <p><b>Miranda Mote</b> - Graphic Designer.</p>
 <p><b>Tajah Ebram</b>, Ph.D. - Researcher and Copywriter. Tajah was a doctoral candidate in the Department of English.</p>

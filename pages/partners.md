@@ -1,5 +1,5 @@
 ---
-layout              : page
+layout              : page-fullwidth
 show_meta           : false
 title               : "Partners"
 subheadline         : ""
@@ -12,7 +12,7 @@ permalink           : "/partners/"
 ---
 <div class="row 2">
     <div class="large-6 columns">
-        <img src="{{ site.urlimg }}MOVE.jpg" alt="">
+        <img src="{{ site.urlimg }}MOVE_crop.jpg" alt="">
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
                 <a href="#panel1a" class="text-center">Mike Africa, Jr. (The MOVE Organization)</a>
@@ -38,7 +38,7 @@ permalink           : "/partners/"
 
 <div class="row 3">
     <div class="large-6 columns">
-        <img src="{{ site.urlimg }}wphsaa_classic.jpg" alt="">
+        <img src="{{ site.urlimg }}wphsaa_classic_crop.jpg" alt="">
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
                 <a href="#panel3a" class="text-center">West Philadelphia High School Alumni Association</a>
@@ -63,7 +63,7 @@ permalink           : "/partners/"
 <br>
 <div class="row 4">
     <div class="large-6 columns">
-        <img src="{{ site.urlimg }}price_logo.png" alt="">
+        <img src="{{ site.urlimg }}price_logo_crop.jpg" alt="">
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
                 <a href="#panel4a" class="text-center">Price Lab for Digital Humanities</a>
