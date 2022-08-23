@@ -33,5 +33,4 @@ header:
     maxZoom: 19,
     attribution: '© OpenStreetMap'
     }).addTo(map);
-
 </script>

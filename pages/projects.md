@@ -48,7 +48,7 @@ header:
         </div>
     </div>
      <div class="large-6 columns">
-        <img src="{{ site.urlimg }}placeholder_crop.jpg" alt="">
+        <img src="{{ site.urlimg }}placeholder_team.jpg" alt="">
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
                 <a href="#panel4a" class="text-center">Black Resistance Tour</a>
