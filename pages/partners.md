@@ -63,7 +63,7 @@ permalink           : "/partners/"
 <br>
 <div class="row 4">
     <div class="large-6 columns">
-        <img src="{{ site.urlimg }}price_logo_crop.jpg" alt="">
+        <img src="{{ site.urlimg }}price_logo_edit.jpg" alt="">
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
                 <a href="#panel4a" class="text-center">Price Lab for Digital Humanities</a>
