@@ -10,3 +10,5 @@ end
 
 gem 'asciidoctor', '~> 1.5.4'
 gem 'coderay', '1.1.1'
+gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+gem 'faraday-retry'
