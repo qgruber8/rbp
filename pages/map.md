@@ -25,7 +25,7 @@ header:
 
 <br>
 
-<div id="map" style="width: 100%; height: 400px;"></div>
+<div id="map" style="width: 100%; height: 400px; z-index: 1;"></div>
 <script>
     var map = L.map('map').setView([40.02277338780419, -75.15872603120033], 13);
 
