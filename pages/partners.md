@@ -73,7 +73,7 @@ permalink           : "/partners/"
             </div>
         </div>
     </div>
-    <div class="large-6 columns">
+    <!--<div class="large-6 columns">
         <img src="{{ site.urlimg }}" alt="">
-    </div>
+    </div>-->
 </div>
