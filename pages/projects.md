@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: "Projects"
 subheadline: ""
 teaser: ""
-permalink: "/our_work/projects/"
+permalink: "/our-work/projects/"
 header:
    image_fullwidth: header_banner_larger.jpg
    caption:

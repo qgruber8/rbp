@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: "Themes"
 subheadline: ""
 teaser: ""
-permalink: "/our_work/themes/"
+permalink: "/our-work/themes/"
 header:
    image_fullwidth: header_banner_larger.jpg
    caption:

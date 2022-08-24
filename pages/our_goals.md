@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: "Our Goals"
 subheadline: ""
 teaser: ""
-permalink: "/about/our_goals/"
+permalink: "/about/our-goals/"
 header:
    image_fullwidth: header_banner_larger.jpg
    caption:

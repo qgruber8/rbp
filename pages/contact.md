@@ -4,7 +4,7 @@ title               : "Contact Us"
 meta_title          : "Contact Us"
 subheadline         : ""
 teaser              : ""
-permalink           : "/get_involved/contact/"
+permalink           : "/get-involved/contact/"
 header:
     image_fullwidth: header_banner_larger.jpg
 ---

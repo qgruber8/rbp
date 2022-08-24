@@ -9,18 +9,18 @@
   - title: "ABOUT"
     url: "/about/"
   - title: "OUR GOALS"
-    url: "/about/our_goals/"
+    url: "/about/our-goals/"
   - title: "TEAM"
-    url: "/about/our_team/"
+    url: "/about/our-team/"
 
 - title: "OUR WORK"
   url: ""
   side: left
   dropdown:
   - title: "PROJECTS"
-    url: "/our_work/projects/"
+    url: "/our-work/projects/"
   - title: "MAP"
-    url: "/our_work/map/"
+    url: "/our-work/map/"
 
 - title: PARTNERS
   url: "/partners/"
@@ -31,6 +31,6 @@
   side: left
   dropdown:
   - title: "CONTRIBUTE"
-    url: "/get_involved/contribute/"
+    url: "/get-involved/contribute/"
   - title: "CONTACT"
-    url: "/get_involved/contact/"
+    url: "/get-involved/contact/"

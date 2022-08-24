@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: "Events"
 subheadline: ""
 teaser: ""
-permalink: "/our_work/events/"
+permalink: "/our-work/events/"
 header:
    image_fullwidth: header_banner_larger.jpg
    caption:

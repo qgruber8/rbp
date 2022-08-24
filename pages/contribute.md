@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: "Contribute"
 subheadline: ""
 teaser: ""
-permalink: "/get_involved/contribute/"
+permalink: "/get-involved/contribute/"
 header:
    image_fullwidth: header_banner_larger.jpg
    caption:
