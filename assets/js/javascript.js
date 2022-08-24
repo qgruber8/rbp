@@ -3050,7 +3050,7 @@ function FastClick(a,b){"use strict";function c(a,b){return function(){return a.
         , padding: 0
         , height: '100%'
         , width: '100%'
-        , zIndex: 1
+        , zIndex: -99999
       }
     , img: {
           position: 'absolute'
@@ -3062,7 +3062,7 @@ function FastClick(a,b){"use strict";function c(a,b){return function(){return a.
         , height: 'auto'
         , maxHeight: 'none'
         , maxWidth: 'none'
-        , zIndex: 1
+        , zIndex: -99999
       }
   };
 
