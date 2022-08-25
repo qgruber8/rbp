@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: "Map"
 subheadline: ""
 teaser: ""
-permalink: "/our-work/map/"
+permalink: "/map/"
 header:
    image_fullwidth: header_banner_larger.jpg
 ---
