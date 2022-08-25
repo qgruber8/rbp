@@ -12,3 +12,14 @@ header:
 <p>“Black Philadelphia,” as conceived in this work, represents a racial-spatial-imaginative construct that indexes the memories, diverse histories, and lived experiences of the communities that comprise the city’s Black, or African diasporic population. In the spirit of W.E.B. Du Bois’ <em>The Philadelphia Negro</em>, which sought to document the “real condition” of the city’s Black population at the turn of the twentieth century, Re/Member Black Philadelphia investigates the precarious contemporary conditions of Black Philly amid changing socioeconomic demographics and the systemic displacement of longtime Black residents.</p>
 
 <p>Re/Member Black Philadelphia demonstrates how the tools of the digital and spatial humanities, qualitative research, and media studies can help us more fully understand and teach the lived realities of marginalized populations and spaces. Utilizing interdisciplinary methods, including ethnographic and oral history techniques, geospatial mapping, filmmaking, and archiving, this work endeavors to make community perspectives and materials both visible and accessible by establishing a collaborative research practice and accompanying digital platform that fosters community narrative-making and preservation for historic posterity.</p>
+
+<p>Some of our current projects involve preserving the organizational memory of The MOVE Organization, documenting community experiences of West Philadelphia High School and Odunde Festival, and supporting West Philadelphia residents in archiving their family histories through the digitization of photographs and documents.</p>
+
+<h2>Document</h2>
+<p>Document processes of community change and displacement through multimodal storytelling and community archiving.</p>
+
+<h2>Engage</h2>
+<p>Engage community members in place-based inquiry and intergenerational dialogue about the histories of Philadelphia communities and recent transformations.</p>
+
+<h2>Contribute</h2>
+<p>Curate physical and digital spaces for the public to learn from and contribute to community preservation and storytelling.</p>
