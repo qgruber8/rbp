@@ -6,8 +6,6 @@ teaser: ""
 permalink: "/our-work/map"
 header:
    image_fullwidth: header_banner_larger.jpg
-   caption:
-   caption-url:
 ---
 <p>Our immersive, interactive map aggregates two-dimensional and 360° representations of the people, places, and events that constitute Black Philly in the past and present.</p>
 

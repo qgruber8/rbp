@@ -6,8 +6,6 @@ teaser: ""
 permalink: "/about/our-goals/"
 header:
    image_fullwidth: header_banner_larger.jpg
-   caption:
-   caption-url:
 ---
 <p>Some of our current projects involve preserving the organizational memory of The MOVE Organization, documenting community experiences of West Philadelphia High School and Odunde Festival, and supporting West Philadelphia residents in archiving their family histories through the digitization of photographs and documents.</p>
 
