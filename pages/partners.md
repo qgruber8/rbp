@@ -33,7 +33,6 @@ header:
     </div>
 </div>
 <br>
-
 <div class="row 3">
     <div class="large-6 columns">
         <img src="{{ site.urlimg }}wphsaa_classic_crop.jpg" alt="">
@@ -64,8 +63,8 @@ header:
         <img src="{{ site.urlimg }}price_logo_edit.jpg" alt="">
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
-                <a href="#panel4a" class="text-center">Price Lab for Digital Humanities</a>
-                <div id="panel4a" class="content inactive">
+                <a href="#panel5a" class="text-center">Price Lab for Digital Humanities</a>
+                <div id="panel5a" class="content inactive">
                     <p>The Free Library of Philadelphia is the generous host of RBP community digitization workshops where we facilitate public dialogue and engagement around the preservation of individual and collective memory and history in areas undergoing redevelopment, gentrification, and mass displacement.</p>
                 </div>
             </div>
