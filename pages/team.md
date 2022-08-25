@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: "Our Team"
 subheadline: ""
 teaser: "Meet the people who make Remember Black Philly."
-permalink: "/about/our-team/"
+permalink: "/about/team/"
 header:
    image_fullwidth: header_banner_larger.jpg
 ---

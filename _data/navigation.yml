@@ -8,19 +8,16 @@
   dropdown:
   - title: "ABOUT"
     url: "/about/"
-  - title: "OUR GOALS"
-    url: "/about/our-goals/"
   - title: "TEAM"
-    url: "/about/our-team/"
+    url: "/about/team/"
 
-- title: "OUR WORK"
-  url: ""
+- title: PROJECTS
+  url: "/projects/"
   side: left
-  dropdown:
-  - title: "PROJECTS"
-    url: "/our-work/projects/"
-  - title: "MAP"
-    url: "/our-work/map/"
+
+- title: MAP
+  url: "/map/"
+  side: left
 
 - title: PARTNERS
   url: "/partners/"
