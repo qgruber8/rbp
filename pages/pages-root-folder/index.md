@@ -13,7 +13,7 @@ image:
   caption_url: https://www.odundefestival.org/
 widget1:
   title: "Featured Projects"
-  url: '/our_work/'
+  url: '/our-work/'
   image: family-archive-photo.png
   text: 'Some of our current projects involve preserving the organizational memory of The MOVE Organization, documenting community experiences of West Philadelphia High School and Odunde Festival, and supporting West Philadlephia residents in archiving their family histories through the digitization of photographs and documents.'
 widget2:
@@ -23,7 +23,7 @@ widget2:
   text: 'Re/Member Black Philadelphia is a multimodal digital scholarship and community archiving project that investigates the increasingly endangered contexts of Black social and cultural life against the backdrop of this systematic displacement.'
 widget3:
   title: "Get Involved"
-  url: '/get_involved/'
+  url: '/get-involved/contact/'
   image: groupphoto_team.png
   text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
 #
