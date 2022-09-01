@@ -5,7 +5,7 @@ subheadline: ""
 teaser: "Meet the people who make Remember Black Philly."
 permalink: "/about/team/"
 header:
-   image_fullwidth: header_banner_larger.jpg
+   image_fullwidth: header_banner.jpg
 ---
 <p>RBP is a collaboration between Penn’s Graduate School of Education, the Price Lab for the Digital Humanities, Penn Libraries’ Digital Scholarship Group, Penn Immersive, and community partners. Our team includes scholars, librarians, archivists, media-makers, Penn graduate and undergraduate students, and community members with expertise in interdisciplinary methods including ethnographic and oral history techniques, geospatial mapping, filmmaking, and augmented and virtual reality.</p>
 
@@ -16,7 +16,7 @@ header:
         <img src="{{ site.urlimg }}Strong_Krystal_crop.jpg" alt="">
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
-                <a href="#panel1a" class="text-center">Project Director: Krystal Strong, Ph.D.</a>
+                <a href="#panel1a" class="text-center">Project Director: Krystal Strong, Ph.D. ▼</a>
                 <div id="panel1a" class="content inactive">
                     <p><a href="https://anthropology.sas.upenn.edu/people/krystal-strong">Krystal Strong</a> is a scholar, community organizer, and third generation Philadelphian. As an assistant professor at University of Pennsylvania Graduate School of Education, her research and teaching focus on student and community activism, youth, and the role of education as a site of political struggle in Africa and the African Diaspora.</p>
                 </div>
@@ -32,7 +32,7 @@ header:
         <img src="{{ site.urlimg }}placeholder_team.jpg" alt="">
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
-                <a href="#panel2a" class="text-center">Project Manager: Putri Augostinos</a>
+                <a href="#panel2a" class="text-center">Project Manager: Putri Augostinos ▼</a>
                 <div id="panel2a" class="content inactive">
                     <p><a href="https://agustinosputri.github.io/">Putri Agostinos</a> lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                 </div>
@@ -43,7 +43,7 @@ header:
         <img src="{{ site.urlimg }}placeholder_team.jpg" alt="">
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
-                <a href="#panel3a" class="text-center">Project Consultant: Cassandra Hradil</a>
+                <a href="#panel3a" class="text-center">Project Consultant: Cassandra Hradil ▼</a>
                 <div id="panel3a" class="content inactive">
                     <p><a href="http://cassandrahradil.com/">Cassandra</a> lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                 </div>
@@ -59,7 +59,7 @@ header:
         <img src="{{ site.urlimg }}placeholder_team.jpg" alt="">
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
-                <a href="#panel4a" class="text-center">Project Consultant: Cynthia Heider</a>
+                <a href="#panel4a" class="text-center">Project Consultant: Cynthia Heider ▼</a>
                 <div id="panel4a" class="content inactive">
                     <p><a href="https://www.library.upenn.edu/people/staff/cynthia-heider">Cynthia</a> lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                 </div>
@@ -70,7 +70,7 @@ header:
         <img src="{{ site.urlimg }}placeholder_team.jpg" alt="">
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
-                <a href="#panel5a" class="text-center">Project Consultant: Nicky Agate</a>
+                <a href="#panel5a" class="text-center">Project Consultant: Nicky Agate ▼</a>
                 <div id="panel5a" class="content inactive">
                     <p><a href="https://www.library.upenn.edu/people/staff/cynthia-heider">Nicky</a> lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                 </div>
@@ -86,7 +86,7 @@ header:
         <img src="{{ site.urlimg }}MJDugan.jpg" alt="">
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
-                <a href="#panel6a" class="text-center">Project Technical Lead: Max J. Dugan</a>
+                <a href="#panel6a" class="text-center">Project Technical Lead: Max J. Dugan ▼</a>
                 <div id="panel6a" class="content inactive">
                     <p><a href="http://maxjohnsondugan.com/">Max</a> lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                 </div>
@@ -97,7 +97,7 @@ header:
         <img src="{{ site.urlimg }}placeholder_team.jpg" alt="">
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
-                <a href="#panel7a" class="text-center">Lead Design Coordinator: Quinn Gruber</a>
+                <a href="#panel7a" class="text-center">Lead Design Coordinator: Quinn Gruber ▼</a>
                 <div id="panel7a" class="content inactive">
                     <p><a href="https://www.linkedin.com/in/quinn-gruber-257005205">Quinn</a> lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                 </div>

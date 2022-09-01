@@ -6,7 +6,7 @@ subheadline         : ""
 teaser              : ""
 permalink           : "/get-involved/contact/"
 header:
-    image_fullwidth: header_banner_larger.jpg
+    image_fullwidth: header_banner.jpg
 ---
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 
