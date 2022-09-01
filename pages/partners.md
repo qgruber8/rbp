@@ -6,7 +6,7 @@ subheadline         : ""
 teaser              : ""
 permalink           : "/partners/"
 header:
-   image_fullwidth: header_banner_larger.jpg
+   image_fullwidth: header_banner.jpg
 ---
 <div class="row 2">
     <div class="large-6 columns">
