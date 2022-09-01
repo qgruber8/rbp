@@ -145,7 +145,7 @@ $accordion-navigation-font-family,){
         }
 
         > .content {
-          display: none;
+          display: block;
           padding: $accordion-content-padding;
           &.active {
             display: block;
