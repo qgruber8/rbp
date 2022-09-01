@@ -145,11 +145,11 @@ $accordion-navigation-font-family,){
         }
 
         > .content {
-          display: none;
+          display: block;
           padding: $accordion-content-padding;
           &.active {
             display: block;
-            background: $accordion-content-active-bg-color !important;
+            background: $accordion-content-active-bg-color;
           }
         }
       }
