@@ -30,7 +30,7 @@ header:
             <div class="accordion-navigation">
                 <a href="#panel2a" class="text-center">Penn Libraries</a>
                 <div id="panel2a" class="content inactive">
-                    <p>Lorem Ipsum</p>
+                    <p>The Penn Libraries Research Data & Digital Scholarship team facilitates data-driven and data-literate research and scholarship across the disciplines and fosters informed and ethical data communities at Penn.</p>
                 </div>
             </div>
         </div>
@@ -69,7 +69,7 @@ header:
             <div class="accordion-navigation">
                 <a href="#panel5a" class="text-center">West Philadelphia High School Alumni Association</a>
                 <div id="panel5a" class="content inactive">
-                    <p>TWPHS Alumni Association supports current students by leveraging diverse networks and ensuring accountability from the school district and administrators. The Alumni Associate hosts the annual WestFest class reunion and works to preserve the institutional memory of West Philly High.</p>
+                    <p>WPHS Alumni Association supports current students by leveraging diverse networks and ensuring accountability from the school district and administrators. The Alumni Associate hosts the annual WestFest class reunion and works to preserve the institutional memory of West Philly High.</p>
                 </div>
             </div>
         </div>
