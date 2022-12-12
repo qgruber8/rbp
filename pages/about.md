@@ -7,19 +7,15 @@ permalink: "/about/"
 header:
     image_fullwidth: "header_banner.jpg"
 ---
-<p>Re/Member Black Philadelphia is a multimodal digital scholarship and community archiving project that investigates the increasingly endangered contexts of Black social and cultural life against the backdrop of this systematic displacement. First and foremost, this project is an act of love for Black Philadelphia and of resistance to the erasure of Black communities in Philadelphia, as in many parts of the world. Conceptualized in 2014, Re/Member Black Philadelphia utilizes digital media and technology to document and celebrate the rich experiences, institutions, spaces, and cultures of Black people in the city.</p>
+<p>Re/Member Black Philadelphia is a multimodal storytelling  and community archiving project, which investigates increasingly endangered contexts of Black social and cultural life against the backdrop of systematic displacement in the city of Philadelphia. First and foremost, this project is an act of love for Black Philadelphia and for the many expressions of resistance to the dislocation of Black communities. First conceptualized in 2017,  Re/Member Black Philadelphia utilizes digital media and technology to document and celebrate the rich experiences, institutions, spaces, and cultural practices Black people have cultivated across the city.</p>
+<p>Black Philadelphia in our work encompassesthe memories, diverse histories, struggles, and lived experiences of the city’s Black, or African diasporic communities. In the spirit of W.E.B. Du Bois’ <em>The Philadelphia Negro</em>, which sought to document the “real condition” of the city’s Black population at the turn of the 20th century, Re/Member Black Philadelphia explores contemporary experiences of Black Philly and community-driven memory work that has formed amid the rising displacement of longtime Black residents and institutions.</p>
+<p>Re/Member Black Philadelphia utilizes the tools of the digital and spatial humanities, qualitative research, and community organizing, including ethnographic and oral history techniques, geospatial mapping, filmmaking, and archiving. We amplify community perspectives and work collaboratively with local partners to ensure that community-held resources are accessible. Our collaborative research and archival practices, community engagement efforts, and digital, multimodal platforms foster community narrative-making and preservation for posterity.</p>
 
-<p>“Black Philadelphia,” as conceived in this work, represents a racial-spatial-imaginative construct that indexes the memories, diverse histories, and lived experiences of the communities that comprise the city’s Black, or African diasporic population. In the spirit of W.E.B. Du Bois’ <em>The Philadelphia Negro</em>, which sought to document the “real condition” of the city’s Black population at the turn of the twentieth century, Re/Member Black Philadelphia investigates the precarious contemporary conditions of Black Philly amid changing socioeconomic demographics and the systemic displacement of longtime Black residents.</p>
-
-<p>Re/Member Black Philadelphia demonstrates how the tools of the digital and spatial humanities, qualitative research, and media studies can help us more fully understand and teach the lived realities of marginalized populations and spaces. Utilizing interdisciplinary methods, including ethnographic and oral history techniques, geospatial mapping, filmmaking, and archiving, this work endeavors to make community perspectives and materials both visible and accessible by establishing a collaborative research practice and accompanying digital platform that fosters community narrative-making and preservation for historic posterity.</p>
-
-<p>Some of our current projects involve preserving the organizational memory of The MOVE Organization, documenting community experiences of West Philadelphia High School and Odunde Festival, and supporting West Philadelphia residents in archiving their family histories through the digitization of photographs and documents.</p>
-
-<h2>Document</h2>
-<p>Document processes of community change and displacement through multimodal storytelling and community archiving.</p>
-
+<h1>Our Goals</h1>
+<p>Some of our current projects involve preserving the organizational memory of The MOVE Organization, documenting sites of resistance across the city with the Black Resistance Tour of Philadelphia, and supporting West Philadelphia residents in archiving their family histories through the digitization of photographs and documents. Past projects have included collecting community oral histories related to historic and cultural events such as the Odunde Festival, the 1985 Bombing of MOVE, and West Fest (the West Philadelphia High School alumni reunion).</p>
+<h2>Preserve</h2>
+<p>Support community memory work and preservation practices through multimodal storytelling and community archiving.</p>
 <h2>Engage</h2>
-<p>Engage community members in place-based inquiry and intergenerational dialogue about the histories of Philadelphia communities and recent transformations.</p>
-
-<h2>Contribute</h2>
+<p>Connect with community members in place-based inquiry and intergenerational dialogue about the histories of Philadelphia communities and recent transformations.</p>
+<h2>Share</h2>
 <p>Curate physical and digital spaces for the public to learn from and contribute to community preservation and storytelling.</p>
