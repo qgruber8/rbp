@@ -15,17 +15,17 @@ widget1:
   title: "Featured Projects"
   url: '/our-work/'
   image: family-archive-photo.png
-  text: 'Some of our current projects involve preserving the organizational memory of The MOVE Organization, documenting community experiences of West Philadelphia High School and Odunde Festival, and supporting West Philadlephia residents in archiving their family histories through the digitization of photographs and documents.'
+  text: 'Some of our current and recent projects involve preserving the organizational memory of The MOVE Organization, mapping sites of  Black resistance in Philadelphia, documenting community experiences of West Philadelphia High School and the Odunde Festival, and supporting West Philadelphia residents in archiving their family histories through the digitization of photographs and documents.'
 widget2:
   title: "About Re/Member Black Philly"
   url: '/about/'
   image: backlit_map.jpg
-  text: 'Re/Member Black Philadelphia is a multimodal digital scholarship and community archiving project that investigates the increasingly endangered contexts of Black social and cultural life against the backdrop of this systematic displacement.'
+  text: 'Re/Member Black Philadelphia is a multimodal digital scholarship and community archiving project that investigates increasingly endangered contexts of Black social and cultural life and community-driven memory work against the backdrop of systematic displacement.'
 widget3:
   title: "Get Involved"
   url: '/get-involved/contact/'
   image: groupphoto_team.png
-  text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
+  text: 'Sign up for updates, to volunteer, or collaborate, or share community preservation efforts we should know about.'
 #
 # Use the call for action to show a button on the frontpage
 #
