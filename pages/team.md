@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Our Team"
+title: "Contributors"
 subheadline: ""
 teaser: "Meet the people who make Remember Black Philly."
 permalink: "/about/team/"
