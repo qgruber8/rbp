@@ -16,7 +16,7 @@ header:
             <div class="accordion-navigation">
                 <a href="#panel1a" class="text-center">Project Director: Krystal Strong, Ph.D. ▼</a>
                 <div id="panel1a" class="content inactive">
-                    <p>a href="https://gse.rutgers.edu/faculty/krystal-strong-ph-d/">Krystal Strong</a> is a scholar, community organizer, and third generation Philadelphian. As an assistant professor of Black Studies in Education at Rutgers University, her research and teaching focus on student and community activism, youth, and education in Africa and the African Diaspora.</p>
+                    <p><a href="https://gse.rutgers.edu/faculty/krystal-strong-ph-d/">Krystal Strong</a> is a scholar, community organizer, and third generation Philadelphian. As an assistant professor of Black Studies in Education at Rutgers University, her research and teaching focus on student and community activism, youth, and education in Africa and the African Diaspora.</p>
                 </div>
             </div>
         </div>
@@ -52,12 +52,12 @@ header:
 <br>
 <div class="row 2">
     <div class="large-6 columns">
-        <img src="{{ site.urlimg }}placeholder_team.jpg" alt="">
+        <img src="{{ site.urlimg }}putri.jpg" alt="">
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
-                <a href="#panel2a" class="text-center">Project Manager: Putri Augostinos ▼</a>
-                <div id="panel2a" class="content inactive">
-                    <p><a href="https://agustinosputri.github.io/">Putri Agostinos</a> lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                <a href="#panel3a" class="text-center">Project Manager: Putri Agustinos ▼</a>
+                <div id="panel3a" class="content inactive">
+                    <p><a href="http://agustinosputri.github.io">Putri</a> is a graduate student at Penn GSE. She is interested in the intersection of language learning, civic engagement, critical studies, and digital humanities. Putri has been engaged in grassroots community-based programs related to education, immigration & citizenship, and had worked in an ed-tech start-up industry.</p>
                 </div>
             </div>
         </div>
@@ -68,7 +68,7 @@ header:
             <div class="accordion-navigation">
                 <a href="#panel3a" class="text-center">Project Consultant: Cassandra Hradil ▼</a>
                 <div id="panel3a" class="content inactive">
-                    <p><a href="http://cassandrahradil.com/">Cassandra</a> lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    <p><a href="http://cassandrahradil.com/">Cassandra</a> Cassandra serves as a liaison between the Libraries’ Center for Research Data & Digital and the Price Lab. She specializes in managing and supporting digital projects across a range of media. Her interests include archival information systems, decolonial mapping, queer interfaces, e-textiles, and feminist data visualization.</p>
                 </div>
             </div>
         </div>
