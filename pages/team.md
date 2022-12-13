@@ -63,7 +63,7 @@ header:
         </div>
     </div>
     <div class="large-6 columns">
-        <img src="{{ site.urlimg }}placeholder_team.jpg" alt="">
+        <img src="{{ site.urlimg }}c_hradil.jpg" alt="">
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
                 <a href="#panel3b" class="text-center">Project Consultant: Cassandra Hradil ▼</a>
@@ -79,7 +79,7 @@ header:
 
 <div class="row 3">
     <div class="large-6 columns">
-        <img src="{{ site.urlimg }}placeholder_team.jpg" alt="">
+        <img src="{{ site.urlimg }}c_heider.jpg" alt="">
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
                 <a href="#panel4a" class="text-center">Project Consultant: Cynthia Heider ▼</a>
@@ -90,7 +90,7 @@ header:
         </div>        
     </div>
     <div class="large-6 columns">
-        <img src="{{ site.urlimg }}placeholder_team.jpg" alt="">
+        <img src="{{ site.urlimg }}n_agate.jpg" alt="">
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
                 <a href="#panel5a" class="text-center">Project Consultant: Nicky Agate ▼</a>
@@ -111,7 +111,7 @@ header:
             <div class="accordion-navigation">
                 <a href="#panel6a" class="text-center">Project Technical Lead: Max J. Dugan ▼</a>
                 <div id="panel6a" class="content inactive">
-                    <p><a href="http://maxjohnsondugan.com/">Max</a> lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    <p><a href="http://maxjohnsondugan.com/">Max Johnson Dugan</a> is a doctoral candidate in the Department of Religious Studies at the University of Pennsylvania. His research focuses on Islamic material and visual culture, embodiment, and emotions. His dissertation examines Halal consumption in Philadelphia using a combination of ethnographic and digital humanistic methods in order to understand how Islamic traditions, racialization, and the contingencies of urban life give halal consumer goods their purchase.</p>
                 </div>
             </div>
         </div>        
