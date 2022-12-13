@@ -8,7 +8,7 @@ permalink           : "/get-involved/contact/"
 header:
     image_fullwidth: header_banner.jpg
 ---
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<p>Re/Member Black Philadelphia is driven by connection. Reach out to us to learn more about our work, to volunteer, share resources, or collaborate. </p>
 
 <h2>Google Form</h2>
 

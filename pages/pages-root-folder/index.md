@@ -13,7 +13,7 @@ image:
   caption_url: https://www.odundefestival.org/
 widget1:
   title: "Featured Projects"
-  url: '/our-work/'
+  url: '/projects/'
   image: family-archive-photo.png
   text: 'Some of our current and recent projects involve preserving the organizational memory of The MOVE Organization, mapping sites of  Black resistance in Philadelphia, documenting community experiences of West Philadelphia High School and the Odunde Festival, and supporting West Philadelphia residents in archiving their family histories through the digitization of photographs and documents.'
 widget2:

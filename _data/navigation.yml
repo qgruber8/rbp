@@ -3,13 +3,12 @@
   side: left
 
 - title: ABOUT
-  url: ""
+  url: "/about/"
   side: left
-  dropdown:
-  - title: "ABOUT"
-    url: "/about/"
-  - title: "TEAM"
-    url: "/about/team/"
+
+- title: CONTRIBUTORS
+  url: "/about/team/"
+  side: left
 
 - title: PROJECTS
   url: "/projects/"
@@ -19,15 +18,14 @@
   url: "/map/"
   side: left
 
-- title: PARTNERS
-  url: "/partners/"
+- title: EVENTS
+  url: "/our-work/events/"
   side: left
 
-- title: "GET INVOLVED"
-  url: ""
+- title: THEMES
+  url: "/our-work/themes/"
+  side: left  
+
+- title: CONTACT
+  url: "/get-involved/contact/"
   side: left
-  dropdown:
-  - title: "CONTRIBUTE"
-    url: "/get-involved/contribute/"
-  - title: "CONTACT"
-    url: "/get-involved/contact/"
