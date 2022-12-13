@@ -82,9 +82,9 @@ header:
         <img src="{{ site.urlimg }}c_heider.jpg" alt="">
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
-                <a href="#panel4a" class="text-center">Project Consultant: Cynthia Heider ▼</a>
+                <a href="#panel4a" class="text-center">Project Coordinating Consultant: Cynthia Heider ▼</a>
                 <div id="panel4a" class="content inactive">
-                    <p><a href="https://www.library.upenn.edu/people/staff/cynthia-heider">Cynthia</a> lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    <p>In her role as Penn Libraries’ first Public Digital Scholarship Librarian, <a href="https://www.library.upenn.edu/people/staff/cynthia-heider">Cynthia</a> works to initiate and support digital projects, scholarship, and programming that center community partnerships and public engagement. As part of the Research Data and Digital Scholarship team, she consults with audiences on and beyond campus to actively facilitate opportunities for equitable collaboration, resource sharing, and critical inquiry in the digital realm.</p>
                 </div>
             </div>
         </div>        
@@ -95,7 +95,7 @@ header:
             <div class="accordion-navigation">
                 <a href="#panel5a" class="text-center">Project Consultant: Nicky Agate ▼</a>
                 <div id="panel5a" class="content inactive">
-                    <p><a href="https://www.library.upenn.edu/people/staff/cynthia-heider">Nicky</a> lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    <p><a href="https://www.library.upenn.edu/people/staff/nicky-agate">Nicky</a> is the Snyder-Granader Assistant University Librarian for Research Data and Digital Scholarship. Nicky leads the Center for Research Data and Digital Scholarship, building partnerships with campus centers and initiatives and supporting faculty and students whose research makes intensive use of digital methods and tools, including research data, across the disciplines.</p>
                 </div>
             </div>
         </div>
