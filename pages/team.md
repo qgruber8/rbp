@@ -66,8 +66,8 @@ header:
         <img src="{{ site.urlimg }}placeholder_team.jpg" alt="">
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
-                <a href="#panel3a" class="text-center">Project Consultant: Cassandra Hradil ▼</a>
-                <div id="panel3a" class="content inactive">
+                <a href="#panel3b" class="text-center">Project Consultant: Cassandra Hradil ▼</a>
+                <div id="panel3b" class="content inactive">
                     <p><a href="http://cassandrahradil.com/">Cassandra</a> Cassandra serves as a liaison between the Libraries’ Center for Research Data & Digital and the Price Lab. She specializes in managing and supporting digital projects across a range of media. Her interests include archival information systems, decolonial mapping, queer interfaces, e-textiles, and feminist data visualization.</p>
                 </div>
             </div>
