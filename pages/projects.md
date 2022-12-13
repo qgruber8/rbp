@@ -26,7 +26,7 @@ header:
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
                 <a href="#panel1b" class="text-center">Preserving Family Histories</a>
-                <div id="panel1ab" class="content inactive">
+                <div id="panel1b" class="content inactive">
                     <p>Preserving Family Histories is a community data curation initiative aimed at documenting the vibrant historical memories from residents along West Philadelphia’s major financial and cultural corridor,  52nd Street. The Blackwell Free Library regional branch has partnered with Re/Member Black Philadelphia project to encourage dialogue and collect oral histories about family histories and community memories in West Philadelphia and beyond. The Community Data Curation pilot, sponsored by the <b>Council on Library and Information Resources</b> and Penn Libraries, has provided the scanning technology to produce beautifully rendered, high-quality image collections and exhibits, and expertise to preserve the photographs, documents, ephemera and memorabilia that keep the corridor central to lived experience of the Black residents of Philadelphia. This digital community archive will host digitized material, exhibits, and collections while offering communities opportunities to ensure the longevity of their important historical records.</p>
                 </div>
             </div>
