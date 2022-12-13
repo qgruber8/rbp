@@ -8,7 +8,7 @@ permalink           : "/partners/"
 header:
    image_fullwidth: header_banner.jpg
 ---
-<p>The work of Re/Member Black Philadelphia would not be possible without the collaboration of community and institutional partners, who we partner with to develop projects, build skills and resources, and support community efforts.</ p>
+<p>The work of Re/Member Black Philadelphia would not be possible without the collaboration of community and institutional partners, who we partner with to develop projects, build skills and resources, and support community efforts.</p>
 
 <h1>Collaborators</h1>
 
