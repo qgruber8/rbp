@@ -117,12 +117,12 @@ header:
         </div>        
     </div>
     <div class="large-6 columns">
-        <img src="{{ site.urlimg }}placeholder_team.jpg" alt="">
+        <img src="{{ site.urlimg }}q_gruber.jpg" alt="">
         <div class="accordion" data-accordion>
             <div class="accordion-navigation">
                 <a href="#panel7a" class="text-center">Lead Design Coordinator: Quinn Gruber ▼</a>
                 <div id="panel7a" class="content inactive">
-                    <p><a href="https://www.linkedin.com/in/quinn-gruber-257005205">Quinn</a> lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    <p>Quinn Gruber (C’22) is a poet, researcher, and translator that finds joy in little things like leaves and tiny doors that go nowhere. They focus on the intersections of science, disability, and literature, along with digital humanities and Italian poetry. They currently work as an editorial assistant for an educational publishing company.</p>
                 </div>
             </div>
         </div>
